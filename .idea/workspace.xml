@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3eed9fff-161c-4c08-bbde-b8eb8e32e4e6" name="Changes" comment="" />
+    <list default="true" id="3eed9fff-161c-4c08-bbde-b8eb8e32e4e6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/telaDESIGN.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/telaDESIGN.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2QLklaE56X4iIIPCo7zIVZKyaUl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -18,6 +24,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -29,7 +39,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685140403635</updated>
+      <workItem from="1685140404843" duration="386000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
